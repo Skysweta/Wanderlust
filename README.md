@@ -1,5 +1,5 @@
 # Wanderlust 
-![Wanderlust](/Assets/img/ss.png)
+![Wanderlust](ss.png)
 
 ### 🌟 Functional Clone of Airbnb
 ### 🚀 A platform that seamlessly integrates functionality for users to list, edit, and review accommodations, complete with secure login capabilities
@@ -10,4 +10,4 @@ NFT Marketplace website featuring visually appealing GSAP animations that also s
 
 It is made using Html, Css, Js, NodeJs, ExpressJs, EJs and MongoDB.
 
-## Visit this Nft-Marketplace here - https://wanderlust-oizu.onrender.com/listings?
+## Visit this Nft-Marketplace here - https://wanderlust-oizu.onrender.com/listings
