@@ -6,7 +6,7 @@
 
 ## Introduction
 
-NFT Marketplace website featuring visually appealing GSAP animations that also shows live prices of cryptocurrency by fetching data from CoinGecko API.
+Functional Clone of Airbnb featuring a fully integrated front-end and back-end, designed to showcase modern web development practices.
 
 It is made using Html, Css, Js, NodeJs, ExpressJs, EJs and MongoDB.
 
